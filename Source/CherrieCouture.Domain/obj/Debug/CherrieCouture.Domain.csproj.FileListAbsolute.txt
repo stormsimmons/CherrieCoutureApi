@@ -1,0 +1,29 @@
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.dll
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.pdb
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.dll
+C:\Users\Storm.Simmons\source\repos\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.pdb
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.pdb
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.dll
+C:\Users\Storm.Simmons\Documents\Personal GitHub\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.pdb
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.dll
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\CherrieCouture.Domain.pdb
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csprojResolveAssemblyReference.cache
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.dll
+C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\CherrieCouture.Domain.pdb
