@@ -11,3 +11,16 @@ C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCoutu
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.AssemblyInfo.cs
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.dll
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.pdb
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCoutureApi.deps.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCoutureApi.runtimeconfig.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCoutureApi.runtimeconfig.dev.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCoutureApi.dll
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCoutureApi.pdb
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.dll
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.pdb
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.csprojResolveAssemblyReference.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.csproj.CoreCompileInputs.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.AssemblyInfoInputs.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.AssemblyInfo.cs
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.dll
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCoutureApi\obj\Debug\netcoreapp2.0\CherrieCoutureApi.pdb

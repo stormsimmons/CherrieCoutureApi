@@ -4687,11 +4687,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj",
       "projectName": "CherrieCouture.Domain",
-      "projectPath": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj",
+      "projectPath": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj",
       "packagesPath": "C:\\Users\\storm.simmons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCouture.Domain\\obj\\",
+      "outputPath": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCouture.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

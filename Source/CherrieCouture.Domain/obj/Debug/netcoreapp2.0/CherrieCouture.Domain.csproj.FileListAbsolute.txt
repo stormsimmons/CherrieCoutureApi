@@ -9,3 +9,14 @@ C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCoutu
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.pdb
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.dll
 C:\Users\storm.simmons\Documents\PersonalWorkpace\CherrieCoutureApi\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.pdb
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.deps.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.runtimeconfig.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.runtimeconfig.dev.json
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.dll
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\bin\Debug\netcoreapp2.0\CherrieCouture.Domain.pdb
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.csprojResolveAssemblyReference.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.AssemblyInfoInputs.cache
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.AssemblyInfo.cs
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.dll
+C:\Users\storm.simmons\Documents\Personal GitHub\CherrieCoutureApi\Source\CherrieCouture.Domain\obj\Debug\netcoreapp2.0\CherrieCouture.Domain.pdb

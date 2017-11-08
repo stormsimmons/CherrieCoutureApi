@@ -13623,11 +13623,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCoutureApi\\CherrieCoutureApi.csproj",
+      "projectUniqueName": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCoutureApi\\CherrieCoutureApi.csproj",
       "projectName": "CherrieCoutureApi",
-      "projectPath": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCoutureApi\\CherrieCoutureApi.csproj",
+      "projectPath": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCoutureApi\\CherrieCoutureApi.csproj",
       "packagesPath": "C:\\Users\\storm.simmons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCoutureApi\\obj\\",
+      "outputPath": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCoutureApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13647,8 +13647,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj": {
-              "projectPath": "C:\\Users\\storm.simmons\\Documents\\PersonalWorkpace\\CherrieCoutureApi\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj"
+            "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj": {
+              "projectPath": "C:\\Users\\storm.simmons\\Documents\\Personal GitHub\\CherrieCoutureApi\\Source\\CherrieCouture.Domain\\CherrieCouture.Domain.csproj"
             }
           }
         }
