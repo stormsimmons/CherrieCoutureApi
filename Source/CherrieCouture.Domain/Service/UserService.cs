@@ -13,10 +13,15 @@ namespace CherrieCouture.Domain.Service
 	{
 		private readonly IUserRepository _userRepo;
 		private readonly IOrderRepository _orderRepo;
-		public UserService(IUserRepository userRepository, IOrderRepository orderRepository)
+		private readonly IShoppingCartRepository _shoppingCartRepository;
+
+		public UserService(IUserRepository userRepository, 
+			IOrderRepository orderRepository,
+			IShoppingCartRepository shoppingCartRepository)
 		{
 			_userRepo = userRepository;
 			_orderRepo = orderRepository;
+			_shoppingCartRepository = shoppingCartRepository;
 		}
 
 		public void DeleteUser(User user)
@@ -46,11 +51,9 @@ namespace CherrieCouture.Domain.Service
 			_userRepo.Update(user);
 		}
 
-		//public void EmptyShopingCart(string userName)
-		//{
-		//	var user = GetOneUserByUserName(userName);
-		//	user.ShppongCart = new List<Product>();
-		//	UpdateUserDetails(user);
-		//}
+
+
+	
+		
 	}
 }

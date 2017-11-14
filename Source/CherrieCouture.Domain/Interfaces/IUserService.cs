@@ -14,9 +14,9 @@ namespace CherrieCouture.Domain.Interfaces
 		User GetOneUserByUserName(string userName);
 		void UpdateUserDetails(User user);
 		void DeleteUser(User user);
-		//void EmptyShopingCart(string userName);
 
 		IList<Order> GetOrdersByUser(string customerId);
+		
 
 	}
 }

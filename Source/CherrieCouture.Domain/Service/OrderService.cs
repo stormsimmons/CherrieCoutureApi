@@ -13,17 +13,19 @@ namespace CherrieCouture.Domain.Service
 	{
 		private readonly IOrderRepository _orderRepo;
 		private readonly IUserService _userService;
-		public OrderService(IOrderRepository orderRepository, IUserService userService)
+		private readonly IShoppingCartService _shoppingCartService;
+		public OrderService(IOrderRepository orderRepository, IUserService userService, IShoppingCartService shoppingCartService)
 		{
 			_orderRepo = orderRepository;
 			_userService = userService;
+			_shoppingCartService = shoppingCartService;
 		}
 		public void AddAnOrder(Order order)
 		{
 			var userlist = _userService.GetUserList();
 			var user = userlist.FirstOrDefault(x => x.Id == order.CustomerId);
 			_orderRepo.Insert(order);
-			//_userService.EmptyShopingCart(user.UserName);
+			_shoppingCartService.EmptyCart(user.UserName);
 		}
 
 		public void DeleteOrder(Order order)

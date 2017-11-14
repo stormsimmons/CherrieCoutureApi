@@ -17,7 +17,7 @@ using CherrieCouture.Domain.Interfaces;
 using CherrieCouture.Domain.Repository;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore;
-
+using MongoDB.Bson;
 
 namespace CherrieCoutureApi
 {
@@ -43,6 +43,8 @@ namespace CherrieCoutureApi
 				cm.CreateMap<Order, OrderDto>();
 				cm.CreateMap<Product, ProductDto>();
 				cm.CreateMap<ProductDto, Product>();
+				cm.CreateMap<ShoppingCartDto, ShoppingCart>();
+				cm.CreateMap<ShoppingCart, ShoppingCartDto>();
 				cm.CreateMap<CategoryEnum, CategoryEnumDto>();
 				cm.CreateMap<CategoryEnumDto, CategoryEnum>();
 				cm.CreateMap<OrderEnum, OrderEnumDto>();
@@ -53,11 +55,15 @@ namespace CherrieCoutureApi
 			services.AddTransient<IUserRepository>((c) => new UserRepository(Configuration.GetConnectionString("MongoDatabaseConnection")));
 			services.AddTransient<IProductRepository>((c) => new ProductRepository(Configuration.GetConnectionString("MongoDatabaseConnection")));
 			services.AddTransient<IOrderRepository>((c) => new OrderRepository(Configuration.GetConnectionString("MongoDatabaseConnection")));
+			services.AddTransient<IShoppingCartRepository>((c) => new ShoppingCartRepository(Configuration.GetConnectionString("MongoDatabaseConnection")));
+
 
 			services.AddTransient<IUserService, CherrieCouture.Domain.Service.UserService>();
 			services.AddTransient<IProductService ,CherrieCouture.Domain.Service.ProductService>();
 			services.AddTransient<IOrderService ,CherrieCouture.Domain.Service.OrderService>();
 			services.AddTransient<ILoginService ,CherrieCouture.Domain.Service.LoginService>();
+			services.AddTransient<IShoppingCartService, CherrieCouture.Domain.Service.ShoppingCartService>();
+
 
 			services.AddSwaggerGen(c =>
 			{

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using CherrieCouture.Domain.Interfaces;
 using CherrieCoutureApi.Requests.Order;
@@ -20,9 +16,11 @@ namespace CherrieCoutureApi.Controllers
     {
 
 		private IOrderService _orderService;
-		public OrderController(IOrderService orderService)
+		private IShoppingCartService _shoppingCartService;
+		public OrderController(IOrderService orderService, IShoppingCartService shoppingCartService)
 		{
 			_orderService = orderService;
+			_shoppingCartService = shoppingCartService;
 		}
 
 		[Route("list")]
@@ -41,6 +39,7 @@ namespace CherrieCoutureApi.Controllers
 			var orderToAdd = new OrderDto
 			{
 				CustomerId = request.CustomerId,
+				UserName = request.UserName,
 				ProductList = request.ProductList,
 				TotalPrice = request.TotalPrice,
 				Status = request.Status
@@ -49,6 +48,8 @@ namespace CherrieCoutureApi.Controllers
 			var mappedOrder = Mapper.Map<Order>(orderToAdd);
 
 			_orderService.AddAnOrder(mappedOrder);
+			_shoppingCartService.EmptyCart(mappedOrder.UserName);
+			
 		}
 
 		[Route("update")]
@@ -58,6 +59,7 @@ namespace CherrieCoutureApi.Controllers
 			var orderToUpdate = new Order
 			{
 				CustomerId = ObjectId.Parse(request.CustomerId),
+				UserName = request.UserName,
 				ProductList = Mapper.Map<List<Product>>(request.ProductList),
 				TotalPrice = request.TotalPrice,
 				Status = Mapper.Map<OrderEnum>(request.Status)

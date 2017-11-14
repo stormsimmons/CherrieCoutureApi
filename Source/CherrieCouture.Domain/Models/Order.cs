@@ -12,6 +12,7 @@ namespace CherrieCouture.Domain.Models
 	{
 		public ObjectId Id { get; set; }
 		public ObjectId CustomerId { get; set; }
+		public string UserName { get; set; }
 		public List<Product> ProductList { get; set; }
 		public decimal TotalPrice { get; set; }
 		public OrderEnum Status { get; set; }

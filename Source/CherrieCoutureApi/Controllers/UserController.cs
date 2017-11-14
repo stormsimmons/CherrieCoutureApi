@@ -9,6 +9,8 @@ using CherrieCoutureApi.Requests.User;
 using CherrieCoutureApi.Dtos;
 using AutoMapper;
 using CherrieCouture.Domain.Models;
+using MongoDB.Bson;
+using CherrieCouture.Domain.Enums;
 
 namespace CherrieCoutureApi.Controllers
 {
@@ -75,7 +77,36 @@ namespace CherrieCoutureApi.Controllers
 			var mappedList = Mapper.Map<List<OrderDto>>(list);
 
 			return mappedList;
-
 		}
+
+		//[Route("getcart")]
+		//[HttpGet]
+		//public ShoppingCartDto Get([FromQuery]GetCartRequest request)
+		//{
+		//	var cart = _userService.GetCart(request.UserName);
+			
+		//	var cartDto = Mapper.Map<ShoppingCartDto>(cart);
+		//	return cartDto;
+		//}
+		//[Route("addtocart")]
+		//[HttpPost]
+		//public void Post([FromBody] AddToCartRequest request )
+		//{
+
+		//	var product = new Product
+		//	{
+		//		Id = ObjectId.Parse(request.product.Id),
+		//		ProductId = request.product.ProductId,
+		//		Name = request.product.Name,
+		//		Category = (CategoryEnum)request.product.Category,
+		//		Description = request.product.Description,
+		//		ImageUrl = request.product.ImageUrl,
+		//		Price = request.product.Price,
+		//		Size = request.product.Size,
+		//		StockQuantity = request.product.StockQuantity
+		//	};
+		//	_userService.AddToCart(request.UserName, product);
+		//}
+
 	}
 }
